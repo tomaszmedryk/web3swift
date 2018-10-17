@@ -1,0 +1,6 @@
+github "Boilertalk/secp256k1.swift"
+github "antitypical/Result"
+github "attaswift/BigInt"
+github "attaswift/SipHash"
+github "krzyzanowskim/CryptoSwift"
+github "mxcl/PromiseKit"
